@@ -1,0 +1,6 @@
+/Users/cyrogondim/Projects/Everorodd/Everorodd/obj/x86/Debug/Everorodd.csprojAssemblyReference.cache
+/Users/cyrogondim/Projects/Everorodd/Everorodd/obj/x86/Debug/Everorodd.csproj.CoreCompileInputs.cache
+/Users/cyrogondim/Projects/Everorodd/Everorodd/bin/Debug/Everorodd.exe
+/Users/cyrogondim/Projects/Everorodd/Everorodd/bin/Debug/Everorodd.pdb
+/Users/cyrogondim/Projects/Everorodd/Everorodd/obj/x86/Debug/Everorodd.exe
+/Users/cyrogondim/Projects/Everorodd/Everorodd/obj/x86/Debug/Everorodd.pdb
